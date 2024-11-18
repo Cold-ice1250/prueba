@@ -1,0 +1,10 @@
+C:\Users\IK\Desktop\Ejemplo de formulario con controles basicos\Ejemplo de formulario con controles basicos\bin\Debug\Ejemplo de formulario con controles basicos.exe.config
+C:\Users\IK\Desktop\Ejemplo de formulario con controles basicos\Ejemplo de formulario con controles basicos\bin\Debug\Ejemplo de formulario con controles basicos.exe
+C:\Users\IK\Desktop\Ejemplo de formulario con controles basicos\Ejemplo de formulario con controles basicos\bin\Debug\Ejemplo de formulario con controles basicos.pdb
+C:\Users\IK\Desktop\Ejemplo de formulario con controles basicos\Ejemplo de formulario con controles basicos\obj\Debug\Ejemplo de formulario con controles basicos.csproj.AssemblyReference.cache
+C:\Users\IK\Desktop\Ejemplo de formulario con controles basicos\Ejemplo de formulario con controles basicos\obj\Debug\Ejemplo_de_formulario_con_controles_basicos.Form1.resources
+C:\Users\IK\Desktop\Ejemplo de formulario con controles basicos\Ejemplo de formulario con controles basicos\obj\Debug\Ejemplo_de_formulario_con_controles_basicos.Properties.Resources.resources
+C:\Users\IK\Desktop\Ejemplo de formulario con controles basicos\Ejemplo de formulario con controles basicos\obj\Debug\Ejemplo de formulario con controles basicos.csproj.GenerateResource.cache
+C:\Users\IK\Desktop\Ejemplo de formulario con controles basicos\Ejemplo de formulario con controles basicos\obj\Debug\Ejemplo de formulario con controles basicos.csproj.CoreCompileInputs.cache
+C:\Users\IK\Desktop\Ejemplo de formulario con controles basicos\Ejemplo de formulario con controles basicos\obj\Debug\Ejemplo de formulario con controles basicos.exe
+C:\Users\IK\Desktop\Ejemplo de formulario con controles basicos\Ejemplo de formulario con controles basicos\obj\Debug\Ejemplo de formulario con controles basicos.pdb
