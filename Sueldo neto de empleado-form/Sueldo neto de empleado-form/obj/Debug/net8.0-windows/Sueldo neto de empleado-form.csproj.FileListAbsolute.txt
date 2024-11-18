@@ -1,0 +1,16 @@
+C:\Users\Marcos\Desktop\algoritmos gama\ejersicios de interfas grafica\Sueldo neto de empleado-form\Sueldo neto de empleado-form\bin\Debug\net8.0-windows\Sueldo neto de empleado-form.exe
+C:\Users\Marcos\Desktop\algoritmos gama\ejersicios de interfas grafica\Sueldo neto de empleado-form\Sueldo neto de empleado-form\bin\Debug\net8.0-windows\Sueldo neto de empleado-form.deps.json
+C:\Users\Marcos\Desktop\algoritmos gama\ejersicios de interfas grafica\Sueldo neto de empleado-form\Sueldo neto de empleado-form\bin\Debug\net8.0-windows\Sueldo neto de empleado-form.runtimeconfig.json
+C:\Users\Marcos\Desktop\algoritmos gama\ejersicios de interfas grafica\Sueldo neto de empleado-form\Sueldo neto de empleado-form\bin\Debug\net8.0-windows\Sueldo neto de empleado-form.dll
+C:\Users\Marcos\Desktop\algoritmos gama\ejersicios de interfas grafica\Sueldo neto de empleado-form\Sueldo neto de empleado-form\bin\Debug\net8.0-windows\Sueldo neto de empleado-form.pdb
+C:\Users\Marcos\Desktop\algoritmos gama\ejersicios de interfas grafica\Sueldo neto de empleado-form\Sueldo neto de empleado-form\obj\Debug\net8.0-windows\Sueldo_neto_de_empleado_form.Form1.resources
+C:\Users\Marcos\Desktop\algoritmos gama\ejersicios de interfas grafica\Sueldo neto de empleado-form\Sueldo neto de empleado-form\obj\Debug\net8.0-windows\Sueldo neto de empleado-form.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\algoritmos gama\ejersicios de interfas grafica\Sueldo neto de empleado-form\Sueldo neto de empleado-form\obj\Debug\net8.0-windows\Sueldo neto de empleado-form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\algoritmos gama\ejersicios de interfas grafica\Sueldo neto de empleado-form\Sueldo neto de empleado-form\obj\Debug\net8.0-windows\Sueldo neto de empleado-form.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\algoritmos gama\ejersicios de interfas grafica\Sueldo neto de empleado-form\Sueldo neto de empleado-form\obj\Debug\net8.0-windows\Sueldo neto de empleado-form.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\algoritmos gama\ejersicios de interfas grafica\Sueldo neto de empleado-form\Sueldo neto de empleado-form\obj\Debug\net8.0-windows\Sueldo neto de empleado-form.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\algoritmos gama\ejersicios de interfas grafica\Sueldo neto de empleado-form\Sueldo neto de empleado-form\obj\Debug\net8.0-windows\Sueldo neto de empleado-form.dll
+C:\Users\Marcos\Desktop\algoritmos gama\ejersicios de interfas grafica\Sueldo neto de empleado-form\Sueldo neto de empleado-form\obj\Debug\net8.0-windows\refint\Sueldo neto de empleado-form.dll
+C:\Users\Marcos\Desktop\algoritmos gama\ejersicios de interfas grafica\Sueldo neto de empleado-form\Sueldo neto de empleado-form\obj\Debug\net8.0-windows\Sueldo neto de empleado-form.pdb
+C:\Users\Marcos\Desktop\algoritmos gama\ejersicios de interfas grafica\Sueldo neto de empleado-form\Sueldo neto de empleado-form\obj\Debug\net8.0-windows\Sueldo neto de empleado-form.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\algoritmos gama\ejersicios de interfas grafica\Sueldo neto de empleado-form\Sueldo neto de empleado-form\obj\Debug\net8.0-windows\ref\Sueldo neto de empleado-form.dll

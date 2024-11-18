@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sueldo neto de empleado-form/1.0.0": {
+        "runtime": {
+          "Sueldo neto de empleado-form.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sueldo neto de empleado-form/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
